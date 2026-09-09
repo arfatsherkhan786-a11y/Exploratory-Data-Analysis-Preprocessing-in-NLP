@@ -1,6 +1,6 @@
   #Title: Exploratory Data Analysis & Preprocessing in NLP
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on **Exploratory Data Analysis (EDA) and Text Preprocessing in Natural Language Processing (NLP)**.
 
@@ -20,15 +20,15 @@ The main objective is to explore a publicly available textual dataset, identify 
 * Apply lemmatization
 * Visualize important patterns and insights
 
-## 📊 Dataset
+## Dataset
 
-**Dataset:** IMDb Movie Reviews Dataset
+**Dataset: ** IMDb Movie Reviews Dataset
 
 The IMDb Movie Reviews dataset contains movie reviews with sentiment labels. It is widely used for NLP and sentiment-analysis tasks.
 
-**Dataset Source:** Publicly available IMDb movie review dataset.
+**Dataset Source: ** Publicly available IMDb movie review dataset.
 
-##  Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -39,7 +39,7 @@ The IMDb Movie Reviews dataset contains movie reviews with sentiment labels. It 
 * Scikit-learn
 * Jupyter Notebook
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The following analyses are performed:
 
@@ -140,7 +140,7 @@ Week-1-NLP-EDA-Preprocessing/
 
 AIML Engineering Student
 
-## 📌 Task
+## Task
 
 **Week 1: Exploratory Data Analysis & Preprocessing in NLP**
 
